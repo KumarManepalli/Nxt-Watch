@@ -264,8 +264,8 @@ Returns a response based on the credentials provided
 
 ```json
 {
-  "username": "rahul",
-  "password": "rahul@2021"
+  "username": "kumar",
+  "password": "kumar@2025"
 }
 ```
 
